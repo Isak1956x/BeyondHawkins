@@ -12,6 +12,7 @@
       "bundleIdentifier": "com.isak1956x.BeyondHawkins"
     },
     "android": {
+      "package": "com.isak1956x.beyondhawkins",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
